@@ -32,6 +32,7 @@ Contributors
 ------------
 
 * Ronald Portier, Therp BV (https://therp.nl)
+* Oury Baldé <oury.balde@xcg-consulting.fr>
 
 Maintainer
 ----------

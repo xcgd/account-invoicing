@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # © 2017 Therp BV <http://therp.nl>
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 {
@@ -8,7 +7,7 @@
     'license': 'AGPL-3',
     'website': 'http://therp.nl',
     'category': 'Sales',
-    'version': '10.0.1.0.0',
+    'version': '11.0.1.0.0',
     'depends': [
         'account_invoice_pricelist',
         'sale',
