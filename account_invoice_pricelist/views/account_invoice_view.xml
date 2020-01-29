@@ -12,6 +12,7 @@
                         string="Update prices"
                         attrs="{'invisible': ['|', ('pricelist_id', '=', False), ('state', 'not in', ['draft'])]}"
                         help="Update price in lines from the pricelist"
+                        colspan="2"
                 />
             </field>
         </field>
@@ -28,6 +29,7 @@
                         string="Update prices"
                         attrs="{'invisible': ['|', ('pricelist_id', '=', False), ('state', 'not in', ['draft'])]}"
                         help="Update price in lines from the pricelist"
+                        colspan="2"
                 />
       	    </field>
    	    </field>
